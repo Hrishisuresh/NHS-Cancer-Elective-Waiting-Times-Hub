@@ -15,7 +15,7 @@
 This repository contains an enterprise-grade NHS performance and operational dashboard built using **Power BI Desktop** and **Microsoft SQL Server (T-SQL)**. 
 
 ### 📊 Final Dashboard Preview
-![Dashboard Preview](Images/dashboard_preview.png)
+![NHS Dashboard Preview](Images/dashboard_preview.png)
 
 ---
 
