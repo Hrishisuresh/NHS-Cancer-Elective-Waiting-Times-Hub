@@ -64,7 +64,7 @@ Calculation is done upstream in SQL so the Power BI model stays light, which mir
 ## How to run it
 
 **See the SQL run in 30 seconds (no setup):**
-Open `NHS-Waiting-Times-Hub/2_SQL_Scripts/NHS_Waiting_Times_Pipeline.sql`, copy it into [dbfiddle.uk](https://dbfiddle.uk) with a **SQL Server** engine selected, and run. Each query returns its own result grid.
+Open `NHS-Waiting-Times-Hub/2_SQL_Scripts/NHS_Waiting_Times_Pipeline.sql`, copy it into [SQL Fiddle](https://sqlfiddle.com) with **MS SQL Server** selected, and run. Each query returns its own result grid. (Tested and working there.)
 
 **Open the dashboard:**
 1. Clone the repository.
