@@ -61,6 +61,24 @@ The dashboard was developed in strict compliance with **Official NHS Identity Gu
 
 ## 🚀 How to Replicate This Project
 1. Clone this repository.
-2. Execute the T-SQL scripts in `/2_SQL_Scripts` to configure the views.
-3. Open the `.pbix` file in `/3_PowerBI_Dashboard`.
+2. Execute the T-SQL scripts inside `/2_SQL_Scripts` to configure the views.
+3. Open the `NHS_Cancer_&_Elective_Waiting_Times_Hub.pbix` file located in `/3_PowerBI_Dashboard`.
 4. Update the data source settings to point to your SQL Server instance and click **Refresh**.
+
+---
+
+## 📁 Repository Structure
+```text
+NHS-Waiting-Times-Hub/
+├── 1_Data_Assets/
+│   ├── cancer_analysis.csv
+│   ├── cancer_pathways.csv
+│   ├── patients.csv
+│   ├── rtt_analysis.csv
+│   └── rtt_pathways.csv
+├── 2_SQL_Scripts/
+│   └── NHS_Waiting_Times_Pipeline.sql
+├── 3_PowerBI_Dashboard/
+│   └── NHS_Cancer_&_Elective_Waiting_Times_Hub.pbix
+└── Images/
+    └── dashboard_preview.png
