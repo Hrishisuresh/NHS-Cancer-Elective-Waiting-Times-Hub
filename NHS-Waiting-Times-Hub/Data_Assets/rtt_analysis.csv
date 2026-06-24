@@ -1,0 +1,151 @@
+pathway_id,patient_id,specialty,referral_date,active_monitoring_start_date,treatment_start_date,status,days_waited,rtt_status
+RP0001,P0012,Ophthalmology,2026-06-11,,,Incomplete,19.0,Waiting Within 18w
+RP0002,P0074,ENT,2025-09-13,,2025-11-26,Completed,74.0,Treated Within 18w
+RP0003,P0007,Ophthalmology,2026-01-24,,,Incomplete,157.0,18w Breach (Still Waiting)
+RP0004,P0059,Ophthalmology,2026-05-27,,,Incomplete,34.0,Waiting Within 18w
+RP0005,P0046,Cardiology,2026-05-19,2026-06-29,,Active Monitoring,,Clock Stopped
+RP0006,P0104,Trauma & Orthopaedics,2025-09-30,,2026-03-13,Completed,164.0,18w Breach (Treated Late)
+RP0007,P0157,Dermatology,2026-06-20,,,Incomplete,10.0,Waiting Within 18w
+RP0008,P0015,ENT,2026-05-08,,,Incomplete,53.0,Waiting Within 18w
+RP0009,P0096,Trauma & Orthopaedics,2025-12-03,,2026-02-10,Completed,69.0,Treated Within 18w
+RP0010,P0062,Gynaecology,2026-02-11,,2026-03-11,Completed,28.0,Treated Within 18w
+RP0011,P0093,Gynaecology,2026-02-17,,2026-05-22,Completed,94.0,Treated Within 18w
+RP0012,P0153,Gynaecology,2026-04-13,2026-05-27,,Active Monitoring,,Clock Stopped
+RP0013,P0119,Gynaecology,2026-03-23,,,Incomplete,99.0,Waiting Within 18w
+RP0014,P0007,Cardiology,2026-03-19,,2026-06-05,Completed,78.0,Treated Within 18w
+RP0015,P0146,Trauma & Orthopaedics,2026-01-21,,,Incomplete,160.0,18w Breach (Still Waiting)
+RP0016,P0092,General Surgery,2026-05-30,,,Incomplete,31.0,Waiting Within 18w
+RP0017,P0031,Urology,2025-09-30,,2026-04-05,Completed,187.0,18w Breach (Treated Late)
+RP0018,P0097,Urology,2026-06-02,,,Incomplete,28.0,Waiting Within 18w
+RP0019,P0081,Trauma & Orthopaedics,2026-01-02,,,Incomplete,179.0,18w Breach (Still Waiting)
+RP0020,P0154,Gynaecology,2025-11-09,,,Incomplete,233.0,18w Breach (Still Waiting)
+RP0021,P0073,Dermatology,2025-12-29,,2026-03-22,Completed,83.0,Treated Within 18w
+RP0022,P0130,Gynaecology,2025-09-28,,,Incomplete,275.0,18w Breach (Still Waiting)
+RP0023,P0134,Ophthalmology,2025-11-15,2026-01-02,,Active Monitoring,,Clock Stopped
+RP0024,P0158,ENT,2025-09-14,,,Incomplete,289.0,18w Breach (Still Waiting)
+RP0025,P0014,Ophthalmology,2026-05-11,,,Incomplete,50.0,Waiting Within 18w
+RP0026,P0104,Urology,2026-01-15,,2026-06-12,Completed,148.0,18w Breach (Treated Late)
+RP0027,P0007,Cardiology,2025-12-23,,,Incomplete,189.0,18w Breach (Still Waiting)
+RP0028,P0114,Gynaecology,2025-11-10,,,Incomplete,232.0,18w Breach (Still Waiting)
+RP0029,P0159,Trauma & Orthopaedics,2026-05-13,,,Incomplete,48.0,Waiting Within 18w
+RP0030,P0084,ENT,2026-06-05,2026-06-29,,Active Monitoring,,Clock Stopped
+RP0031,P0098,Trauma & Orthopaedics,2026-04-17,2026-05-20,,Active Monitoring,,Clock Stopped
+RP0032,P0059,Gynaecology,2025-12-06,,2026-01-14,Completed,39.0,Treated Within 18w
+RP0033,P0147,Cardiology,2025-12-13,,,Incomplete,199.0,18w Breach (Still Waiting)
+RP0034,P0062,ENT,2025-09-22,,2025-11-16,Completed,55.0,Treated Within 18w
+RP0035,P0124,General Surgery,2026-04-23,2026-05-14,,Active Monitoring,,Clock Stopped
+RP0036,P0109,Cardiology,2025-09-28,,2025-11-20,Completed,53.0,Treated Within 18w
+RP0037,P0009,Urology,2025-11-04,,,Incomplete,238.0,18w Breach (Still Waiting)
+RP0038,P0101,Urology,2025-10-12,,,Incomplete,261.0,18w Breach (Still Waiting)
+RP0039,P0054,ENT,2026-05-14,,,Incomplete,47.0,Waiting Within 18w
+RP0040,P0053,Ophthalmology,2026-01-08,,,Incomplete,173.0,18w Breach (Still Waiting)
+RP0041,P0090,Urology,2026-01-18,,,Incomplete,163.0,18w Breach (Still Waiting)
+RP0042,P0062,ENT,2025-12-17,,2026-01-31,Completed,45.0,Treated Within 18w
+RP0043,P0041,ENT,2026-02-19,,2026-05-20,Completed,90.0,Treated Within 18w
+RP0044,P0137,Gynaecology,2025-10-24,,2026-01-30,Completed,98.0,Treated Within 18w
+RP0045,P0155,Ophthalmology,2026-05-18,,,Incomplete,43.0,Waiting Within 18w
+RP0046,P0097,Cardiology,2025-09-24,,2025-12-26,Completed,93.0,Treated Within 18w
+RP0047,P0025,Ophthalmology,2026-04-17,,,Incomplete,74.0,Waiting Within 18w
+RP0048,P0014,Cardiology,2025-09-29,,,Incomplete,274.0,18w Breach (Still Waiting)
+RP0049,P0107,ENT,2026-04-15,,,Incomplete,76.0,Waiting Within 18w
+RP0050,P0147,Ophthalmology,2025-09-28,,,Incomplete,275.0,18w Breach (Still Waiting)
+RP0051,P0050,ENT,2026-03-30,,,Incomplete,92.0,Waiting Within 18w
+RP0052,P0105,General Surgery,2025-12-25,,2026-02-19,Completed,56.0,Treated Within 18w
+RP0053,P0106,Ophthalmology,2026-02-12,,,Incomplete,138.0,18w Breach (Still Waiting)
+RP0054,P0021,Urology,2026-04-17,,2026-05-18,Completed,31.0,Treated Within 18w
+RP0055,P0114,ENT,2026-04-03,,,Incomplete,88.0,Waiting Within 18w
+RP0056,P0014,Gynaecology,2025-09-05,2025-09-16,,Active Monitoring,,Clock Stopped
+RP0057,P0090,Ophthalmology,2026-05-28,,,Incomplete,33.0,Waiting Within 18w
+RP0058,P0103,General Surgery,2025-11-19,,2026-02-27,Completed,100.0,Treated Within 18w
+RP0059,P0053,Urology,2026-01-17,,,Incomplete,164.0,18w Breach (Still Waiting)
+RP0060,P0021,Dermatology,2026-01-19,,2026-02-28,Completed,40.0,Treated Within 18w
+RP0061,P0113,Cardiology,2025-11-20,,2026-02-25,Completed,97.0,Treated Within 18w
+RP0062,P0152,ENT,2026-01-11,,2026-03-16,Completed,64.0,Treated Within 18w
+RP0063,P0160,Dermatology,2026-04-15,,2026-05-18,Completed,33.0,Treated Within 18w
+RP0064,P0146,Gynaecology,2026-02-17,,2026-04-09,Completed,51.0,Treated Within 18w
+RP0065,P0015,ENT,2026-05-02,2026-06-05,,Active Monitoring,,Clock Stopped
+RP0066,P0108,Dermatology,2026-02-13,,,Incomplete,137.0,18w Breach (Still Waiting)
+RP0067,P0082,Gynaecology,2026-01-11,,,Incomplete,170.0,18w Breach (Still Waiting)
+RP0068,P0003,ENT,2025-10-08,,2025-12-06,Completed,59.0,Treated Within 18w
+RP0069,P0050,Cardiology,2026-06-09,2026-06-25,,Active Monitoring,,Clock Stopped
+RP0070,P0153,Cardiology,2026-02-17,,,Incomplete,133.0,18w Breach (Still Waiting)
+RP0071,P0055,Gynaecology,2026-05-27,2026-06-21,,Active Monitoring,,Clock Stopped
+RP0072,P0123,Cardiology,2026-01-25,,,Incomplete,156.0,18w Breach (Still Waiting)
+RP0073,P0031,ENT,2026-02-05,,,Incomplete,145.0,18w Breach (Still Waiting)
+RP0074,P0160,Trauma & Orthopaedics,2025-11-27,2026-01-11,,Active Monitoring,,Clock Stopped
+RP0075,P0025,General Surgery,2025-12-17,,2026-03-11,Completed,84.0,Treated Within 18w
+RP0076,P0048,Cardiology,2025-09-12,,,Incomplete,291.0,18w Breach (Still Waiting)
+RP0077,P0127,Ophthalmology,2026-04-16,,2026-06-18,Completed,63.0,Treated Within 18w
+RP0078,P0082,Gynaecology,2026-04-08,,,Incomplete,83.0,Waiting Within 18w
+RP0079,P0087,Dermatology,2025-10-07,2025-10-19,,Active Monitoring,,Clock Stopped
+RP0080,P0119,ENT,2026-01-01,,2026-02-09,Completed,39.0,Treated Within 18w
+RP0081,P0085,ENT,2026-01-04,,2026-03-15,Completed,70.0,Treated Within 18w
+RP0082,P0106,Urology,2025-12-30,,2026-03-22,Completed,82.0,Treated Within 18w
+RP0083,P0141,Urology,2025-10-20,,2026-02-03,Completed,106.0,Treated Within 18w
+RP0084,P0099,Ophthalmology,2025-11-19,,2026-06-26,Completed,219.0,18w Breach (Treated Late)
+RP0085,P0096,Trauma & Orthopaedics,2025-10-21,,,Incomplete,252.0,18w Breach (Still Waiting)
+RP0086,P0025,General Surgery,2026-05-25,,,Incomplete,36.0,Waiting Within 18w
+RP0087,P0029,Dermatology,2026-04-06,,,Incomplete,85.0,Waiting Within 18w
+RP0088,P0111,Ophthalmology,2026-03-15,2026-04-14,,Active Monitoring,,Clock Stopped
+RP0089,P0100,Dermatology,2026-04-04,,2026-06-27,Completed,84.0,Treated Within 18w
+RP0090,P0145,Cardiology,2026-05-20,,,Incomplete,41.0,Waiting Within 18w
+RP0091,P0116,Gynaecology,2025-10-19,,2025-11-30,Completed,42.0,Treated Within 18w
+RP0092,P0007,Cardiology,2025-09-21,,,Incomplete,282.0,18w Breach (Still Waiting)
+RP0093,P0059,Gynaecology,2026-02-05,,2026-03-28,Completed,51.0,Treated Within 18w
+RP0094,P0116,Urology,2025-09-08,,,Incomplete,295.0,18w Breach (Still Waiting)
+RP0095,P0156,Urology,2026-01-24,,,Incomplete,157.0,18w Breach (Still Waiting)
+RP0096,P0098,Gynaecology,2025-10-18,,,Incomplete,255.0,18w Breach (Still Waiting)
+RP0097,P0121,Urology,2026-01-24,2026-03-09,,Active Monitoring,,Clock Stopped
+RP0098,P0126,Dermatology,2025-11-30,,,Incomplete,212.0,18w Breach (Still Waiting)
+RP0099,P0038,ENT,2026-01-23,2026-02-07,,Active Monitoring,,Clock Stopped
+RP0100,P0039,Gynaecology,2025-11-06,,2026-04-09,Completed,154.0,18w Breach (Treated Late)
+RP0101,P0155,General Surgery,2025-09-18,,,Incomplete,285.0,18w Breach (Still Waiting)
+RP0102,P0126,Urology,2026-04-11,2026-05-28,,Active Monitoring,,Clock Stopped
+RP0103,P0145,General Surgery,2026-02-16,2026-03-31,,Active Monitoring,,Clock Stopped
+RP0104,P0032,General Surgery,2026-02-21,2026-03-29,,Active Monitoring,,Clock Stopped
+RP0105,P0109,Gynaecology,2025-10-22,2025-11-09,,Active Monitoring,,Clock Stopped
+RP0106,P0092,Trauma & Orthopaedics,2025-09-12,,2025-12-24,Completed,103.0,Treated Within 18w
+RP0107,P0071,Cardiology,2025-10-19,,2026-03-31,Completed,163.0,18w Breach (Treated Late)
+RP0108,P0124,Gynaecology,2026-01-25,,2026-06-12,Completed,138.0,18w Breach (Treated Late)
+RP0109,P0125,General Surgery,2025-09-20,,2026-01-29,Completed,131.0,18w Breach (Treated Late)
+RP0110,P0081,ENT,2025-11-19,,2025-12-13,Completed,24.0,Treated Within 18w
+RP0111,P0067,Dermatology,2025-10-10,,,Incomplete,263.0,18w Breach (Still Waiting)
+RP0112,P0026,Urology,2026-06-01,2026-06-29,,Active Monitoring,,Clock Stopped
+RP0113,P0032,Ophthalmology,2025-12-31,,,Incomplete,181.0,18w Breach (Still Waiting)
+RP0114,P0097,Cardiology,2026-04-13,,2026-05-27,Completed,44.0,Treated Within 18w
+RP0115,P0140,Ophthalmology,2026-01-02,,,Incomplete,179.0,18w Breach (Still Waiting)
+RP0116,P0009,Cardiology,2026-02-09,,2026-04-13,Completed,63.0,Treated Within 18w
+RP0117,P0077,Urology,2025-09-03,,2025-12-10,Completed,98.0,Treated Within 18w
+RP0118,P0060,Dermatology,2025-11-14,,2026-02-27,Completed,105.0,Treated Within 18w
+RP0119,P0150,Ophthalmology,2026-03-18,,2026-05-08,Completed,51.0,Treated Within 18w
+RP0120,P0114,Trauma & Orthopaedics,2026-02-07,,2026-04-02,Completed,54.0,Treated Within 18w
+RP0121,P0083,Gynaecology,2026-01-17,,2026-03-11,Completed,53.0,Treated Within 18w
+RP0122,P0020,Gynaecology,2026-02-20,2026-03-09,,Active Monitoring,,Clock Stopped
+RP0123,P0014,Cardiology,2026-01-14,,,Incomplete,167.0,18w Breach (Still Waiting)
+RP0124,P0026,Urology,2026-04-21,,,Incomplete,70.0,Waiting Within 18w
+RP0125,P0072,General Surgery,2026-02-28,,2026-05-17,Completed,78.0,Treated Within 18w
+RP0126,P0083,Gynaecology,2025-11-20,,,Incomplete,222.0,18w Breach (Still Waiting)
+RP0127,P0133,General Surgery,2026-02-14,,2026-03-16,Completed,30.0,Treated Within 18w
+RP0128,P0015,Cardiology,2025-09-23,,2025-12-24,Completed,92.0,Treated Within 18w
+RP0129,P0146,Ophthalmology,2026-05-20,,,Incomplete,41.0,Waiting Within 18w
+RP0130,P0131,ENT,2026-03-28,,,Incomplete,94.0,Waiting Within 18w
+RP0131,P0142,Cardiology,2026-04-22,,,Incomplete,69.0,Waiting Within 18w
+RP0132,P0149,Ophthalmology,2025-10-02,,2025-11-07,Completed,36.0,Treated Within 18w
+RP0133,P0067,Dermatology,2025-10-30,,2026-02-13,Completed,106.0,Treated Within 18w
+RP0134,P0064,Urology,2026-06-09,,,Incomplete,21.0,Waiting Within 18w
+RP0135,P0060,General Surgery,2026-05-14,2026-06-15,,Active Monitoring,,Clock Stopped
+RP0136,P0062,Ophthalmology,2025-09-16,,2026-01-29,Completed,135.0,18w Breach (Treated Late)
+RP0137,P0014,Cardiology,2026-06-04,,,Incomplete,26.0,Waiting Within 18w
+RP0138,P0036,ENT,2026-04-12,,,Incomplete,79.0,Waiting Within 18w
+RP0139,P0051,Dermatology,2025-12-11,,2026-02-17,Completed,68.0,Treated Within 18w
+RP0140,P0016,Dermatology,2026-05-10,,,Incomplete,51.0,Waiting Within 18w
+RP0141,P0115,ENT,2025-12-24,2026-02-06,,Active Monitoring,,Clock Stopped
+RP0142,P0054,Dermatology,2025-09-23,2025-10-17,,Active Monitoring,,Clock Stopped
+RP0143,P0024,Trauma & Orthopaedics,2026-06-09,,,Incomplete,21.0,Waiting Within 18w
+RP0144,P0007,Dermatology,2025-09-21,,2025-12-08,Completed,78.0,Treated Within 18w
+RP0145,P0147,Gynaecology,2026-04-02,,,Incomplete,89.0,Waiting Within 18w
+RP0146,P0076,Ophthalmology,2026-06-04,,2026-06-26,Completed,22.0,Treated Within 18w
+RP0147,P0133,General Surgery,2026-03-07,2026-04-24,,Active Monitoring,,Clock Stopped
+RP0148,P0122,Trauma & Orthopaedics,2025-11-04,,2026-03-17,Completed,133.0,18w Breach (Treated Late)
+RP0149,P0076,General Surgery,2026-05-29,,,Incomplete,32.0,Waiting Within 18w
+RP0150,P0099,Trauma & Orthopaedics,2026-04-10,,,Incomplete,81.0,Waiting Within 18w
